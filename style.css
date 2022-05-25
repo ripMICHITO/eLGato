@@ -1,0 +1,19 @@
+.body_background {
+    background-image:url("Diseño\ sin\ título\ \(1\).png") ;
+    background-position: center; background-size: cover;
+
+}
+body {
+    cursor: pointer;
+}
+h1 {
+    color :yellowgreen ;
+    font-size: 40px;
+    font-weight: bold;
+}
+#myCanvas {
+    border-width: 10px;
+}button {
+    background-color: teal;
+    color : khaki ;
+}
